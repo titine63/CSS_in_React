@@ -1,3 +1,4 @@
+//Card.jsx
 /* eslint-disable react/prop-types */
 import styled from 'styled-components';
 
@@ -20,7 +21,7 @@ const TopSection = styled.div`
 
 const ImageContainer = styled.div`
   flex-basis: 100%;
-  background-image: url('path_to_your_floral_image.jpg');
+  background-image: url(${props => props.image});
   background-size: cover;
 `;
 
