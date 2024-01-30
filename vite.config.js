@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react-swc'
 
 
 export default defineConfig({
-  base: '/Flowers/',
+  base: '/',
   plugins: [react()],
 });
 

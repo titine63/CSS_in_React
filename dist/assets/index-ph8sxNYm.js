@@ -81,5 +81,5 @@ Error generating stack: `+o.message+`
   margin-bottom: 5px;
 `,Fm=Qe.div`
   display: flex;
-`,Am=({title:e,subtitle:t,year:n,image:r})=>pe.jsxs(Tm,{children:[pe.jsxs(Rm,{children:[pe.jsx($m,{style:{backgroundImage:`url(${r})`}}),pe.jsxs(Lm,{children:[pe.jsx(Im,{children:e}),pe.jsx(Om,{children:t}),pe.jsx(Dm,{children:n})]})]}),pe.jsxs(jm,{children:[pe.jsx(Mm,{children:"Rate this album"}),pe.jsx(Fm,{children:"★★★☆☆"})]})]}),Um="/Flowers/assets/Flowers-JapYCQB9.png";function Bm(){return pe.jsx("div",{children:pe.jsx(Am,{title:"Flowers",subtitle:`What a beautiful flower !
+`,Am=({title:e,subtitle:t,year:n,image:r})=>pe.jsxs(Tm,{children:[pe.jsxs(Rm,{children:[pe.jsx($m,{style:{backgroundImage:`url(${r})`}}),pe.jsxs(Lm,{children:[pe.jsx(Im,{children:e}),pe.jsx(Om,{children:t}),pe.jsx(Dm,{children:n})]})]}),pe.jsxs(jm,{children:[pe.jsx(Mm,{children:"Rate this album"}),pe.jsx(Fm,{children:"★★★☆☆"})]})]}),Um="/assets/Flowers-JapYCQB9.png";function Bm(){return pe.jsx("div",{children:pe.jsx(Am,{title:"Flowers",subtitle:`What a beautiful flower !
          (2024)`,image:Um,rating:5})})}Go.createRoot(document.getElementById("root")).render(pe.jsx(Cn.StrictMode,{children:pe.jsx(Bm,{})}));

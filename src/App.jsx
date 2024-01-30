@@ -1,8 +1,6 @@
 //App.jsx
 import Card from './Card';
 import FlowersImage from './data/Flowers.png';
-
-
 import './App.css'
 
 function App() {
